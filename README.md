@@ -10,7 +10,7 @@ Then import using `import passsys`
 
 To setup you use the `passsys.setup(Data File)`
 
-**Please note you need to create that file for the password system to work!**
+**Please Note: You need to create that file for the password system to work!**
 
 ## Adding Users:
 Add a username and password with `passsys.addUser(username, password)` replacing username and password with the username and password variables.
