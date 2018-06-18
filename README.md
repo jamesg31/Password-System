@@ -4,7 +4,7 @@ Thanks for checking out Password System. This will run you through all you need 
 ## Downloading / Installing:
 You can either download Password System through Github directly at https://github.com/jamesg31/Password-System or using `python -m pip install password-system`
 
-Then import using `import passsys`
+Then import using `import password_system as passsys`
 
 ## Setup:
 
