@@ -1,4 +1,4 @@
-import passsys
+import password_system as passsys
 import getpass
 import os
 import time
